@@ -22,3 +22,7 @@
 * [Terra - Random Earth](bounties/terra-random-earth.md)
 * [Terra - Wormhole](bounties/terra-wormhole.md)
 * [THORChain](bounties/thorchain.md)
+
+## Testing Area
+
+* [Image Upload Test](testing-area/image-upload-test.md)
