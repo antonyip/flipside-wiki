@@ -2,6 +2,8 @@
 
 ## MarkDown
 
+{% embed url="https://www.markdownguide.org/basic-syntax" %}
+
 {% embed url="https://guides.github.com/features/mastering-markdown" %}
 
 ## SQL Queries
