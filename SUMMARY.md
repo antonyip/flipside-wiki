@@ -22,6 +22,8 @@
 * [Algorand](bounties/algorand.md)
 * [Anchor](bounties/anchor.md)
 * [ENS](bounties/ens.md)
+* [Mirror](bounties/mirror/README.md)
+  * [Mirror - Queries](bounties/mirror/mirror-queries.md)
 * [Orbs](bounties/orbs.md)
 * [Orion Money](bounties/orion-money.md)
 * [Paraswap](bounties/paraswap.md)
