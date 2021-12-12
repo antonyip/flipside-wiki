@@ -9,4 +9,19 @@ coverY: 0
 
 ## Welcome aboard!
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+Welcome to the Flipside-wiki. Hope you enjoy your stay!
+
+{% embed url="https://anton-yip.gitbook.io/flipside-wiki" %}
+This webpage, but the real site doesn't work well for now..
+{% endembed %}
+
+### Make modifications in this wiki here
+
+{% embed url="https://github.com/antonyip/flipside-wiki" %}
+this - github wiki
+{% endembed %}
+
+Gitbook
+
+{% embed url="https://app.gitbook.com" %}
+
