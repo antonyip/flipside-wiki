@@ -36,6 +36,7 @@
 * [Terra - Random Earth](bounties/terra-random-earth.md)
 * [Terra - Wormhole](bounties/terra-wormhole.md)
 * [THORChain](bounties/thorchain.md)
+* [Valkyrie Protocol](bounties/valkyrie-protocol.md)
 
 ## Massnomis Guides
 

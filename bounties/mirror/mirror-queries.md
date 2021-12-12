@@ -4,6 +4,6 @@
 
 ```
 select *
-from mirror.close_collateral
+from mirror.open_collateral
 limit 1
 ```
