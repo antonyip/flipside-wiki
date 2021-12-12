@@ -4,7 +4,6 @@
 
 ## Information
 
-* [Meet the Team!](information/meet-the-team.md)
 * [Public Flipside Links](information/public-flipside-links.md)
 * [Flipside Status](information/flipside-status.md)
 * [External Guides](information/external-guides.md)
