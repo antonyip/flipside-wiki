@@ -18,6 +18,10 @@ coverY: 0
 
 {% embed url="https://docs.google.com/spreadsheets/d/1Om4Mym-zDAiPEX4e09ReRTzFyjVijnG1NbSDVbWuiV0/edit#gid=0" %}
 
+## Leaderboard
+
+{% embed url="https://www.notion.so/teamflipside/Flipside-Crypto-BAM-Leaderboard-1154ce81580a4b8fadfcbb3753a9b21d" %}
+
 ## Others (To be sorted)
 
 1. **Welcome to the Flipside Crypto Discord Server! Here are some helpful links and resources.** Check out our website to learn more about Flipside Crypto and Community-Enabled Analytics: [https://flipsidecrypto.com/](https://flipsidecrypto.com)
