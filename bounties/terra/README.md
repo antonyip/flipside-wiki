@@ -9,3 +9,7 @@
 ### Burn UST for LUNA
 
 terra1vs9jr7pxuqwct3j29lez3pfetuu8xmq7tk3lzk
+
+### Virtual AMM for Luna
+
+terra1untf85jwv3kt0puyyc39myxjvplagr3wstgs5s
