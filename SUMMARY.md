@@ -26,3 +26,4 @@
 ## Testing Area
 
 * [Image Upload Test](testing-area/image-upload-test.md)
+* [Page 2](testing-area/page-2.md)
