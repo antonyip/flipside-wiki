@@ -23,10 +23,12 @@
 * [Anchor](bounties/anchor.md)
 * [ENS](bounties/ens.md)
 * [Orbs](bounties/orbs.md)
+* [Orion Money](bounties/orion-money.md)
 * [Paraswap](bounties/paraswap.md)
 * [Polygon](bounties/polygon.md)
 * [SushiSwap](bounties/sushiswap.md)
 * [Terra](bounties/terra.md)
+* [Terra - Galactic Punks](bounties/terra-galactic-punks.md)
 * [Terra - Knowhere](bounties/terra-knowhere.md)
 * [Terra - Levana Dragons](bounties/terra-levana-dragons.md)
 * [Terra - Random Earth](bounties/terra-random-earth.md)
@@ -37,6 +39,9 @@
 
 * [Guides](massnomis-guides/guides/README.md)
   * [12 Dec 2021](https://docs.google.com/document/d/1zJ\_b9YD5N0v5b6C\_c4eutZIy\_DQaJaQ\_phVtD0T7CeU/edit#)
+  * [21 Nov 2021](https://docs.google.com/document/d/1lTZAcTJQhQMrGblbgWEo1T26I9X4De7idCD24JB4gZc/edit#)
+  * [15 Nov 2021](https://docs.google.com/document/d/1kHaqOUGpMAlq5k-I5EDm3x47rfvZzZubw2xlG6OI3qs/edit)
+  * [07 Nov 2021](https://docs.google.com/document/d/1UwlTX\_QjU8LqKTVVl5HubtQxn7yzEhKg2aw8gRqNKzc/edit?usp=sharing)
 * [Links](massnomis-guides/links.md)
 
 ## Testing Area

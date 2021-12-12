@@ -1,5 +1,9 @@
 # Terra - Levana Dragons
 
+### Overview
+
+{% embed url="https://eastern-cement-397.notion.site/Levana-Meteor-Shower-b51d1513cfee449692992ca41f3e880d" %}
+
 ### Token
 
 {% embed url="https://finder.extraterrestrial.money/mainnet/address/terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v" %}

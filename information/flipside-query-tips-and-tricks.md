@@ -34,6 +34,17 @@ select
 where b.ddate = r.ddate
 ```
 
+### Selecting Values with numbers in them
+
+```
+WITH GENESIS_AIRDROP_CLAIM AS (SELECT  EVENT_ATTRIBUTES:"to"::string as ADDRESS,  
+SUM(EVENT_ATTRIBUTES:"0_amount"/1e6) AS AMOUNT from terra.msg_events
+WHERE EVENT_ATTRIBUTES:"0_contract_address" = 'terra1kalp2knjm4cs3f59ukr4hdhuuncp648eqrgshw'
+AND EVENT_ATTRIBUTES:"0_action" = 'claim'
+AND BLOCK_TIMESTAMP < '2021-01-01T01:06:21Z'
+GROUP BY ADDRESS)
+```
+
 ### Handle Null Values (todo)
 
 ```
