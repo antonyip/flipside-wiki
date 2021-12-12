@@ -1,5 +1,9 @@
 # ENS
 
+## Bounty Page
+
+{% embed url="https://www.notion.so/ENS-Bounties-3405100faa4d4f23af779a97e37e1346" %}
+
 ## Contract Addresses
 
 ### Token

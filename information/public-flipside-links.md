@@ -14,24 +14,25 @@ coverY: 0
 
 {% embed url="https://www.notion.so/teamflipside/Flipside-Crypto-Bounty-Programs-8a6400e3d85049b79875d5200206974e" %}
 
+## Discord
+
+{% embed url="https://discord.gg/uPBjmRQ4h5" %}
+Discord Link
+{% endembed %}
+
 ## Grand Prize Winners
 
 {% embed url="https://docs.google.com/spreadsheets/d/1Om4Mym-zDAiPEX4e09ReRTzFyjVijnG1NbSDVbWuiV0/edit#gid=0" %}
 
 ## Others (To be sorted)
 
-
-
-1. **Welcome to the Flipside Crypto Discord Server! Here are some helpful links and resources.** Check out our website to learn more about Flipside Crypto and Community-Enabled Analytics: [https://flipsidecrypto.com/](https://flipsidecrypto.com)&#x20;
-2. See all of our open bounties and scavenger hunts: [https://flipsidecrypto.com/bounties](https://flipsidecrypto.com/bounties)&#x20;
-3. Get a weekly update on bounties and scavenger hunts from Flipside Crypto in The Bounty Brief: [https://flipsidecrypto.substack.com/](https://flipsidecrypto.substack.com)&#x20;
-4. See the best the Flipside Community of analysts has to offer on our blog: [https://blog.flipsidecrypto.com/](https://blog.flipsidecrypto.com)&#x20;
-5. Follow us on Twitter to keep up with the latest news and projects: [https://twitter.com/flipsidecrypto](https://twitter.com/flipsidecrypto)&#x20;
-6. Sign up for Velocity: [https://app.flipsidecrypto.com/auth/signup/velocity](https://app.flipsidecrypto.com/auth/signup/velocity)&#x20;
-7. Check out our Documentation: [https://docs.flipsidecrypto.com/our-data/data-models](https://docs.flipsidecrypto.com/our-data/data-models)&#x20;
-8. Get Started with Velocity: [https://youtu.be/MDc1baNj6OE](https://youtu.be/MDc1baNj6OE)&#x20;
+1. **Welcome to the Flipside Crypto Discord Server! Here are some helpful links and resources.** Check out our website to learn more about Flipside Crypto and Community-Enabled Analytics: [https://flipsidecrypto.com/](https://flipsidecrypto.com)
+2. See all of our open bounties and scavenger hunts: [https://flipsidecrypto.com/bounties](https://flipsidecrypto.com/bounties)
+3. Get a weekly update on bounties and scavenger hunts from Flipside Crypto in The Bounty Brief: [https://flipsidecrypto.substack.com/](https://flipsidecrypto.substack.com)
+4. See the best the Flipside Community of analysts has to offer on our blog: [https://blog.flipsidecrypto.com/](https://blog.flipsidecrypto.com)
+5. Follow us on Twitter to keep up with the latest news and projects: [https://twitter.com/flipsidecrypto](https://twitter.com/flipsidecrypto)
+6. Sign up for Velocity: [https://app.flipsidecrypto.com/auth/signup/velocity](https://app.flipsidecrypto.com/auth/signup/velocity)
+7. Check out our Documentation: [https://docs.flipsidecrypto.com/our-data/data-models](https://docs.flipsidecrypto.com/our-data/data-models)
+8. Get Started with Velocity: [https://youtu.be/MDc1baNj6OE](https://youtu.be/MDc1baNj6OE)
 9. Get Started with Bounties: [https://youtu.be/lt9lAwtr\_pk](https://youtu.be/lt9lAwtr\_pk)
 10. Roadmap [https://trello.com/b/SDnIF0U5/flipside-roadmap](https://trello.com/b/SDnIF0U5/flipside-roadmap)
-
-
-

@@ -5,6 +5,12 @@ description: >-
 
 # Paraswap
 
+## Bounty Page
+
+{% embed url="https://www.notion.so/Flipside-Bounties-for-Paraswap-1053665bf8764ff0937bcd75df0acab3" %}
+
+## Contract Addresses
+
 ### Token
 
 {% embed url="https://etherscan.io/address/0xcafe001067cdef266afb7eb5a286dcfd277f3de5" %}

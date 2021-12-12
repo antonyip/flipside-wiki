@@ -27,3 +27,9 @@
 
 * [Image Upload Test](testing-area/image-upload-test.md)
 * [Page 2](testing-area/page-2.md)
+
+## Massnomis Guides
+
+* [Guides](massnomis-guides/guides/README.md)
+  * [12 Dec 2021](https://docs.google.com/document/d/1zJ\_b9YD5N0v5b6C\_c4eutZIy\_DQaJaQ\_phVtD0T7CeU/edit#)
+* [Links](massnomis-guides/links.md)
