@@ -44,8 +44,20 @@
 * [Guides](massnomis-guides/guides/README.md)
   * [12 Dec 2021](https://docs.google.com/document/d/1zJ\_b9YD5N0v5b6C\_c4eutZIy\_DQaJaQ\_phVtD0T7CeU/edit#)
   * [21 Nov 2021](https://docs.google.com/document/d/1lTZAcTJQhQMrGblbgWEo1T26I9X4De7idCD24JB4gZc/edit#)
-  * [15 Nov 2021](https://docs.google.com/document/d/1kHaqOUGpMAlq5k-I5EDm3x47rfvZzZubw2xlG6OI3qs/edit)
-  * [07 Nov 2021](https://docs.google.com/document/d/1UwlTX\_QjU8LqKTVVl5HubtQxn7yzEhKg2aw8gRqNKzc/edit?usp=sharing)
+  * [15 Nov 2021](https://docs.google.com/document/d/1kHaqOUGpMAlq5k-I5EDm3x47rfvZzZubw2xlG6OI3qs/edit#)
+  * [07 Nov 2021](https://docs.google.com/document/d/1UwlTX\_QjU8LqKTVVl5HubtQxn7yzEhKg2aw8gRqNKzc/edit#)
+  * [MID OCTOBER 2021](https://docs.google.com/document/d/1uKpugCNcUDogaqlyKY-7wLc0tkx0mNgM1gLmGbJamac/edit)
+  * [EARLY OCTOBER 2021](https://docs.google.com/document/d/13HyFUEhUkbeSD_SQhv_GryZO48HM4ffkGUs-9w0AXLA/edit)
+  * [SEPTEMBER 17 2021](https://docs.google.com/document/d/1OikI_EKnDw34ZkK49R_S9FRw7HhO69hD7Wb9dPPk_W0/edit)
+  * [LATE AUGUST 2021](https://docs.google.com/document/d/1iEeXd3lRhk9xv8BgFZJ3Lna_Or147TwTTpGM4gcpouU/edit)
+  * [MID AUGUST 2021](https://docs.google.com/document/d/12NbQ2dPXsIZ3lRYc6z9eYP6yblDXJmnZncBNUC8GRoA/edit)
+  * [AUGUST 6 2021](https://docs.google.com/document/d/1KaC6_xV0cdzc4L67eih0CdoG_rRaLxyjmo9v23aIgDo/edit)
+  * [JULY 30 2021](https://docs.google.com/document/d/1m2mFH7TWJflqdmIDy4rN2v6Y1m_M00jmfbSvahOA8MM/edit)
+  * [JULY 23 2021](https://docs.google.com/document/d/1Av9mTfpvnAVdOczwOiOyngE-q4f3KvXed4dIdl-ojAY/edit)
+  * [JULY 16 2021](https://docs.google.com/document/d/1-e2Tu65NLKrxYuDaNwKvZo-10n9_Sdc2KE_Qs-IDO-8/edit)
+  * [JULY 9 2021](https://docs.google.com/document/d/1NYzvgRo3noEH-zUc8pJRjNFkDm4hUHMHqU36iFonxfQ/edit)
+  * [JULY 1 2021](https://docs.google.com/document/d/1K9UveFXCPN5FBuCxvB_gFJC0EX1Q0NZ4k1UJlYeFrfI/edit)
+
 * [Links](massnomis-guides/links.md)
 
 ## Testing Area
