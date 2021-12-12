@@ -1,13 +1,13 @@
 # External Guides
 
-## Markdown
+## MarkDown
 
 {% embed url="https://guides.github.com/features/mastering-markdown" %}
 
-## SQL
+## SQL Queries
 
 {% embed url="https://www.w3schools.com/sql" %}
 
-### Snowflake
+## Snowflake
 
 {% embed url="https://docs.snowflake.com/en/sql-reference/intro-summary-operators-functions.html" %}

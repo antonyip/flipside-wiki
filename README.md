@@ -9,19 +9,17 @@ coverY: 0
 
 ## Welcome aboard!
 
-Welcome to the Flipside-wiki. Hope you enjoy your stay!
+Welcome to the Flipside-Wiki. Hope you enjoy your stay!
 
 {% embed url="https://anton-yip.gitbook.io/flipside-wiki" %}
-This webpage, but the real site doesn't work well for now..
-{% endembed %}
+
+### Have any questions?&#x20;
+
+* I don't know how to write a query for this bounty
+* Please add this information to this wiki
+
+Ask the question in the Flipside discord in the #all-questions-welcome channel
 
 ### Make modifications in this wiki here
 
 {% embed url="https://github.com/antonyip/flipside-wiki" %}
-this - github wiki
-{% endembed %}
-
-Gitbook
-
-{% embed url="https://app.gitbook.com" %}
-
