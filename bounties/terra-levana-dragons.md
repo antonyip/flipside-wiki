@@ -4,6 +4,18 @@
 
 {% embed url="https://eastern-cement-397.notion.site/Levana-Meteor-Shower-b51d1513cfee449692992ca41f3e880d" %}
 
+## Contract Addresses (To be fixed)
+
+Who owns nfts on terra, how many and what \[6:16 PM] Ownership of eggs, dust and meteors \[6:16 PM] i also need levana daily trade volume on knowhwere and randomearth
+
+\---randomearth buy meteor msg\_value:execute\_msg:execute\_order:order:order:maker\_asset:info:nft:contract\_addr::string = 'terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v'
+
+Dust buy? ---terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7
+
+\--egg terra1k0y373yxqne22pc9g7jvnr4qclpsxtafevtrpg
+
+\--- Meteor Buy shower msg\_value:to\_address = 'terra1dax9mddsycvzkc429wwy494vhzhggw3d5594rt'
+
 ### Token
 
 {% embed url="https://finder.extraterrestrial.money/mainnet/address/terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v" %}
