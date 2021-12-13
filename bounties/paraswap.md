@@ -41,3 +41,9 @@ BSC: 0xdef171fe48cf0115b1d80b88dc8eab59176fee57
 Avalanche: 0xdef171fe48cf0115b1d80b88dc8eab59176fee57
 Ropsten: 0xdef171fe48cf0115b1d80b88dc8eab59176fee57
 ```
+
+## Airdrop TX
+
+{% embed url="https://etherscan.io/tx/0x61180390fe42aa1ba3c469388012d1a773c00770b6708b257f66de5695424ef5" %}
+0x61180390fe42aa1ba3c469388012d1a773c00770b6708b257f66de5695424ef5
+{% endembed %}
