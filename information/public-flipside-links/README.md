@@ -32,6 +32,10 @@ User Dashboards
 Flipside Dashboards
 {% endembed %}
 
+{% embed url="https://teamflipside.notion.site/teamflipside/60098e93775c4c34a9f51eb840fbf437?v=28f2051da00c494fad8bb7d13e0a0b86" %}
+Might be a little un-updated
+{% endembed %}
+
 ## Others (To be sorted)
 
 1. **Welcome to the Flipside Crypto Discord Server! Here are some helpful links and resources.** Check out our website to learn more about Flipside Crypto and Community-Enabled Analytics: [https://flipsidecrypto.com/](https://flipsidecrypto.com)
