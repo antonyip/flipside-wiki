@@ -2,9 +2,10 @@
 description: Credits - Kida#8864
 ---
 
-# Question - msgs vs msg\_events
+# QUESTION - msgs vs msg\_events
 
 ```
+[9:44 PM]
 anyway these are the transaction types im talking about using msgs
 https://finder.terra.money/columbus-4/tx/CDCFB65DFDA986A92BD8FA3EC75349BC2B17A44D9412F544BBC38F0EAB27632F selling MIR for ust
 https://finder.terra.money/columbus-4/tx/885234DC2763BD9A36342BF71705C45B5B15A4B4D665018D0AC9DBEB5A09F248 selling ANC for ust <-- this one doesn't even have "swap" in it

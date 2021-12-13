@@ -45,14 +45,27 @@ AND BLOCK_TIMESTAMP < '2021-01-01T01:06:21Z'
 GROUP BY ADDRESS)
 ```
 
-### Handle Null Values (todo)
+### Handle Null Values
 
 ```
-Select * from ...
+select 
+delegator_address,
+nvl(label, 'unknown_validator') as validator_name,
+operator_address,
+vp_address
+from terra.labels
 ```
 
-### RegExp\_String (todo)
+### regexp\_substr Example
 
 ```
-Select * from ...
+select 
+  sum(from_amount_usd) as from_usd,
+  sum(to_amount_usd) as to_usd,
+  nvl(regexp_substr(from_asset,'(.*?)-',1,1,'s',1), from_asset) as from_asset,  
+  nvl(regexp_substr(to_asset,'(.*?)-',1,1,'s',1), to_asset) as to_asset
+  from thorchain.swaps
+  where block_timestamp > CURRENT_DATE - 30
+group by from_asset, to_asset
+
 ```

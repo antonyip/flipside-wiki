@@ -27,6 +27,10 @@ WHERE tx_id = '05A1DF7D5B88490E0652A47EE069092A3123FCF0B9F5EAF4D89FFF5C2C6C3ED4'
 
 {% embed url="https://github.com/scottincrypto/analytics/blob/e0d187d2f5f86c879a88a5aac5a7f4d9387186ef/data/wormhole_bridge_assets.csv" %}
 
+## Tokens
+
+{% embed url="https://github.com/forgxyz/flipside/blob/main/data/wh_token_addresses.csv" %}
+
 ## BEST SUBMISSIONS (To Be Sorted)
 
 ### QUESTION 101
