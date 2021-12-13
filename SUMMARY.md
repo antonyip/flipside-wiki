@@ -19,7 +19,8 @@
 
 * [AAVE](bounties/aave.md)
 * [Abracadabra](bounties/abracadabra.md)
-* [Apollo](bounties/apollo.md)
+* [Apollo](bounties/apollo/README.md)
+  * [Query - StrategyID to Name](bounties/apollo/query-strategyid-to-name.md)
 * [Algorand](bounties/algorand.md)
 * [Anchor](bounties/anchor.md)
 * [ENS](bounties/ens.md)
