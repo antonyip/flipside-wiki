@@ -6,6 +6,6 @@
 MetricsDAO
 {% endembed %}
 
-## Contract Addresses (Extract them yourself :P)
+## Contract Addresses (Extract them yourself :stuck\_out\_tongue:)
 
 {% embed url="https://dune.xyz/shadow/Olympus-(OHM)" %}
