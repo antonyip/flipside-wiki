@@ -26,6 +26,7 @@
 * [ENS](bounties/ens.md)
 * [Mirror](bounties/mirror/README.md)
   * [QUERY - Starter](bounties/mirror/mirror-queries.md)
+* [Olympus DAO](bounties/olympus-dao.md)
 * [Orbs](bounties/orbs.md)
 * [Orion Money](bounties/orion-money.md)
 * [Paraswap](bounties/paraswap.md)
