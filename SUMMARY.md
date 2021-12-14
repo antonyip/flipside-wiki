@@ -24,6 +24,7 @@
   * [QUERY - StrategyID to Name](bounties/apollo/query-strategyid-to-name.md)
 * [Algorand](bounties/algorand.md)
 * [Anchor](bounties/anchor.md)
+* [Astroport](bounties/astroport.md)
 * [ENS](bounties/ens.md)
 * [Mirror](bounties/mirror/README.md)
   * [QUERY - Starter](bounties/mirror/mirror-queries.md)
