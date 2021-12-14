@@ -4,6 +4,12 @@
 
 {% embed url="https://eastern-cement-397.notion.site/Levana-Meteor-Shower-b51d1513cfee449692992ca41f3e880d" %}
 
+## Bounty page
+
+{% embed url="https://www.notion.so/fb3531f1edfc43aa9fa291d54510ed00?p=e5b3a430c57f4579b706d298fb72329d" %}
+If it says "Contact an admin" means there's no bounties anyway.
+{% endembed %}
+
 ## Contract Addresses (To be fixed)
 
 Who owns nfts on terra, how many and what \[6:16 PM] Ownership of eggs, dust and meteors \[6:16 PM] i also need levana daily trade volume on knowhwere and randomearth
