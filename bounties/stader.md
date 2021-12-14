@@ -1,6 +1,8 @@
 # Stader
 
-## Bounty Page (TBD)
+## Bounty Page
+
+{% embed url="https://www.notion.so/teamflipside/Flipside-Bounties-for-Stader-Labs-e9f97c574f7d44f3a465213e35a4c667" %}
 
 ## Contract Addresses
 

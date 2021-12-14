@@ -6,9 +6,7 @@
 
 ## Bounty page
 
-{% embed url="https://www.notion.so/fb3531f1edfc43aa9fa291d54510ed00?p=e5b3a430c57f4579b706d298fb72329d" %}
-If it says "Contact an admin" means there's no bounties anyway.
-{% endembed %}
+{% embed url="https://www.notion.so/Flipside-Bounties-for-Levana-Protocol-ceafc48bf45b449e8d0b8c9423c0fb57" %}
 
 ## Contract Addresses (To be fixed)
 
