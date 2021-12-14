@@ -10,6 +10,7 @@
   * [YouTube](information/public-flipside-links/youtube.md)
   * [SQL-Models](information/public-flipside-links/sql-models.md)
   * [Github](information/public-flipside-links/github.md)
+* [Flipside Official Documentation](information/flipside-official-documentation.md)
 * [Flipside Database Status](information/flipside-status.md)
 * [External Guides](information/external-guides.md)
 * [Flipside Query Tips and Tricks](information/flipside-query-tips-and-tricks.md)
