@@ -30,6 +30,14 @@ terra1xacqx447msqp46qmv8k2sq6v5jh9fdj37az898
 terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup
 {% endembed %}
 
-### LunaX - Luna LP
+### LunaX - Luna LP Token
 
 {% embed url="https://finder.extraterrestrial.money/mainnet/address/terra1halhfnaul7c0u9t5aywj430jnlu2hgauftdvdq" %}
+terra1halhfnaul7c0u9t5aywj430jnlu2hgauftdvdq
+{% endembed %}
+
+### LunaX - Luna TerraSwap Address
+
+{% embed url="https://finder.extraterrestrial.money/mainnet/address/terra1zrzy688j8g6446jzd88vzjzqtywh6xavww92hy" %}
+terra1zrzy688j8g6446jzd88vzjzqtywh6xavww92hy
+{% endembed %}
