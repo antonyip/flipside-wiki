@@ -58,7 +58,7 @@
   * [QUERY - Tokens](bounties/terra-wormhole/query-tokens.md)
 * [THORChain](bounties/thorchain/README.md)
   * [QUERY - RaiseTheCaps](bounties/thorchain/query-raisethecaps.md)
-  * [Query - Daily Active Validator Count](bounties/thorchain/query-daily-active-validator-count.md)
+  * [QUERY - Daily Active Validator Count](bounties/thorchain/query-daily-active-validator-count.md)
 * [Valkyrie Protocol](bounties/valkyrie-protocol.md)
 
 ## Massnomis Guides

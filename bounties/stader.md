@@ -29,3 +29,7 @@ terra1xacqx447msqp46qmv8k2sq6v5jh9fdj37az898
 {% embed url="https://finder.extraterrestrial.money/mainnet/address/terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup" %}
 terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup
 {% endembed %}
+
+### LunaX - Luna LP
+
+{% embed url="https://finder.extraterrestrial.money/mainnet/address/terra1halhfnaul7c0u9t5aywj430jnlu2hgauftdvdq" %}
