@@ -6,6 +6,17 @@
 select date_trunc('month', block_timestamp) from from terra.daily_balances
 ```
 
+```
+Hey! I'd like to delete only 2 days from a query where I take a full month.
+SELECT days, amount 
+FROM table.example 
+WHERE days > '2021-10-01' 
+AND days < '2021-11-01'
+
+I wouldn't wanted to get 2021-11-14 and 2021-11-15  (Just an example)
+AND days NOT IN ( '2021-11-14', ' 2021-11-15')
+```
+
 ### Sum of Previous Fields Daily
 
 ```
