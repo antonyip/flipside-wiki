@@ -69,3 +69,20 @@ select
 group by from_asset, to_asset
 
 ```
+
+Flatten terra.msg\_events
+
+```
+select 
+  tx_id,
+  block_timestamp,
+  event_index,
+  msg_index,
+  key,
+  value,
+  split(key, '_')[0] as number,
+  split(key, '_')[1]::string as type
+from terra.msg_events,
+  lateral flatten( input => event_attributes )
+where tx_id = '1DD81ADE6481C2AC3A07D8CAF07A5C3527580A8755107B191007A3F2D67C231D'
+```

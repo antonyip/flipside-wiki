@@ -12,8 +12,20 @@
 Deposit TX for Airdrops
 {% endembed %}
 
-Starder Normal Staking Address?
+### Starder Normal Staking Address
 
 {% embed url="https://finder.terra.money/mainnet/address/terra1r2vv8cyt0scyxymktyfuudqs3lgtypk72w6m3m" %}
 terra1r2vv8cyt0scyxymktyfuudqs3lgtypk72w6m3m
+{% endembed %}
+
+### Stader LunaX Staking Address
+
+{% embed url="https://finder.extraterrestrial.money/mainnet/address/terra1xacqx447msqp46qmv8k2sq6v5jh9fdj37az898" %}
+terra1xacqx447msqp46qmv8k2sq6v5jh9fdj37az898
+{% endembed %}
+
+### LunaX Token Address
+
+{% embed url="https://finder.extraterrestrial.money/mainnet/address/terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup" %}
+terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup
 {% endembed %}
