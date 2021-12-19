@@ -47,3 +47,7 @@ Ropsten: 0xdef171fe48cf0115b1d80b88dc8eab59176fee57
 {% embed url="https://etherscan.io/tx/0x61180390fe42aa1ba3c469388012d1a773c00770b6708b257f66de5695424ef5" %}
 0x61180390fe42aa1ba3c469388012d1a773c00770b6708b257f66de5695424ef5
 {% endembed %}
+
+### Paraswap Sample TX
+
+{% embed url="https://etherscan.io/tx/0xed3e12b026e5658cf08a97aaaf1e1f37fdd46e7fbd6e943ee53a7c9ffa9c3a51" %}
