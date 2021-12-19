@@ -34,6 +34,7 @@
 * [Orion Money](bounties/orion-money.md)
 * [Paraswap](bounties/paraswap.md)
 * [Polygon](bounties/polygon.md)
+* [Solana](bounties/solana.md)
 * [Stader](bounties/stader.md)
 * [SushiSwap](bounties/sushiswap.md)
 * [Terra](bounties/terra/README.md)
