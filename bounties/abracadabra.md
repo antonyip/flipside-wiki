@@ -2,7 +2,7 @@
 
 ## Bounty Page
 
-TBD
+{% embed url="https://www.notion.so/Abracadabra-Bounties-cd84292745254216a5e0f00f1323d65f" %}
 
 ## Contract Addresses
 
