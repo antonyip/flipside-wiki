@@ -97,3 +97,30 @@ from terra.msg_events,
   lateral flatten( input => event_attributes )
 where tx_id = '1DD81ADE6481C2AC3A07D8CAF07A5C3527580A8755107B191007A3F2D67C231D'
 ```
+### dealing with JSON THINGS 
+
+
+```
+FROM BRIAN_
+When querying event_attributes in terra.msg_events or msg_value in terra.msgs, you want to use this viewer (if you're not well-versed in parsing the json otherwise).
+
+http://jsonviewer.stack.hu/
+
+This is incorrect:
+msg_value:execute_msg:mint:extension:owner
+
+
+If you look in the jsonviewer, you'll see that it should be:
+msg_value:execute_msg:mint:owner
+
+
+Then you can type ::string for the string
+msg_value:execute_msg:mint:owner::string
+
+
+Copy and paste this json into the viewer and you'll be able to see this image:
+{ "@type": "/terra.wasm.v1beta1.MsgExecuteContract", "coins": [], "contract": "terra1chrdxaef0y2feynkpq63mve0sqeg09acjnp55v", "execute_msg": { "mint": { "extension": { "attributes": [ { "trait_type": "rarity", "value": "Rare" }, { "trait_type": "rank", "value": "10614" }, { "trait_type": "shower", "value": "40" }, { "trait_type": "distance", "value": "890 kiloparsecs" }, { "trait_type": "crystal1", "value": "Red" }, { "trait_type": "crystal2", "value": "Yellow" }, { "trait_type": "crystal3", "value": "" }, { "trait_type": "weight", "value": "2.7kg" }, { "trait_type": "origin", "value": "Southern hemisphere subterranean caves" }, { "trait_type": "essence", "value": "Electricty" } ], "description": "Evolutionary Rare Meteor NFT, stage 1 of the Levana Dragons adventure.", "image": "ipfs://QmXti2f5NJMVyNDfhZYyxaDJvybGk7V98t245fP7KtRMxK", "name": "Levana Dragons: Rare Meteor #15514" }, "owner": "terra1flkgmdr2za7fv07cm6s62jp4t70etjw4x0zynu", "token_id": "15514" } }, "sender": "terra1v7v2nqs7flrpqqam7l5ulvnva8ly8j653sw4n3" }
+
+
+
+```
