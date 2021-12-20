@@ -25,6 +25,8 @@
 * [Algorand](bounties/algorand.md)
 * [Anchor](bounties/anchor.md)
 * [Astroport](bounties/astroport.md)
+* [Defi Kingdoms](bounties/defi-kingdoms/README.md)
+  * [CONTRACTS - Harmony](bounties/defi-kingdoms/contracts-harmony.md)
 * [ENS](bounties/ens.md)
 * [Mirror](bounties/mirror/README.md)
   * [QUERY - Starter](bounties/mirror/mirror-queries.md)
