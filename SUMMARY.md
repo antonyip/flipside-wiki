@@ -68,6 +68,7 @@
 ## Massnomis Guides
 
 * [Guides](massnomis-guides/guides/README.md)
+  * [LVN Starters](https://docs.google.com/document/d/1p01MeomkqRPt8NzD5V5T\_MunA2WMIi5mgltlCEHEo1A/edit#)
   * [12 Dec 2021](https://docs.google.com/document/d/1zJ\_b9YD5N0v5b6C\_c4eutZIy\_DQaJaQ\_phVtD0T7CeU/edit#)
   * [21 Nov 2021](https://docs.google.com/document/d/1lTZAcTJQhQMrGblbgWEo1T26I9X4De7idCD24JB4gZc/edit#)
   * [15 Nov 2021](https://docs.google.com/document/d/1kHaqOUGpMAlq5k-I5EDm3x47rfvZzZubw2xlG6OI3qs/edit#)
