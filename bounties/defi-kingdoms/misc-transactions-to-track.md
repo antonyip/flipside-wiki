@@ -13,6 +13,7 @@ summon hero
 rent out hero -- renting out your hero for $
 rent in hero -- using $ to rent heroes
 trade hero -- ? unsure what this is
+level up
 
 garderner / lp:
 add lp / provide liquidity -- using 2 tokens to get 1 lp token
