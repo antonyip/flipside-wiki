@@ -28,6 +28,7 @@
 * [Defi Kingdoms](bounties/defi-kingdoms/README.md)
   * [CONTRACTS - Harmony](bounties/defi-kingdoms/contracts-harmony.md)
   * [MISC - Transactions To Track](bounties/defi-kingdoms/misc-transactions-to-track.md)
+  * [MISC - Taxable Events](bounties/defi-kingdoms/misc-taxable-events.md)
 * [ENS](bounties/ens.md)
 * [Mirror](bounties/mirror/README.md)
   * [QUERY - Starter](bounties/mirror/mirror-queries.md)
