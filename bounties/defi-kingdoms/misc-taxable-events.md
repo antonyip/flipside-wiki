@@ -1,3 +1,9 @@
+---
+description: >-
+  Credits: disc0lem0nade#5180
+  https://discord.com/channels/861728723991527464/922892485641007114/922892487088013313
+---
+
 # MISC - Taxable Events
 
 ```
