@@ -23,3 +23,10 @@ terra1yjg0tuhc6kzwz9jl8yqgxnf2ctwlfumnvscupp
 {% embed url="https://finder.extraterrestrial.money/mainnet/token/terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq" %}
 terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq
 {% endembed %}
+
+### Example Donation TX
+
+{% embed url="https://finder.extraterrestrial.money/mainnet/tx/D228E002422ED99471755852439AE2608B02CC2D23D79EBEA0C47E9FF06DCA01" %}
+D228E002422ED99471755852439AE2608B02CC2D23D79EBEA0C47E9FF06DCA01
+{% endembed %}
+
