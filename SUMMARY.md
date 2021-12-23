@@ -24,6 +24,7 @@
   * [QUERY - StrategyID to Name](bounties/apollo/query-strategyid-to-name.md)
 * [Algorand](bounties/algorand.md)
 * [Anchor](bounties/anchor.md)
+* [Angel Protocol](bounties/angel-protocol.md)
 * [Astroport](bounties/astroport.md)
 * [Defi Kingdoms](bounties/defi-kingdoms/README.md)
   * [CONTRACTS - Harmony](bounties/defi-kingdoms/contracts-harmony.md)
