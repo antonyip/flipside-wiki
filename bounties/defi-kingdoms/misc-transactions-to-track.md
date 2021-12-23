@@ -42,8 +42,8 @@ SKIP - start quest -- (Non-taxable?) (All quest goes to same contract for now)
 DONE - claim rewards
 
 items:
-TODO - sell item for dfkgold -- 0xe53bf78f8b99b6d356f93f41afb9951168cca2c6
-TODO - buy item using dfkgold -- ? 0xe53bf78f8b99b6d356f93f41afb9951168cca2c6
+DONE - sell item for dfkgold -- 0xe53bf78f8b99b6d356f93f41afb9951168cca2c6
+DONE - buy item using dfkgold -- 0xe53bf78f8b99b6d356f93f41afb9951168cca2c6
 SKIP - give item -- ?
 SKIP - get item -- ?
 
