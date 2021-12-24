@@ -51,7 +51,7 @@ The top numbers are the size of the data.&#x20;
             u256     amount
             [u8; 32] token_address
             u16      token_chain
-            [u8; 32] recipient
+            [u8; 40] recipient
             u16      recipient_chain
             u256     fee
     """
