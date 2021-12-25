@@ -32,6 +32,7 @@
   * [MISC - Transactions To Track](bounties/defi-kingdoms/misc-transactions-to-track.md)
   * [MISC - Taxable Events](bounties/defi-kingdoms/misc-taxable-events.md)
   * [MISC - Dev FAQ](https://docs.google.com/spreadsheets/d/1x-5YjfyDYW5-CqJIPH1\_S2l032GU4l4eaIEmrjTpDJ8/edit)
+  * [MISC - ONE to 0x Conversion](bounties/defi-kingdoms/misc-one-to-0x-conversion.md)
 * [ENS](bounties/ens.md)
 * [Mirror](bounties/mirror/README.md)
   * [QUERY - Starter](bounties/mirror/mirror-queries.md)
