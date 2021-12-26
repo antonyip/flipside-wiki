@@ -18,3 +18,6 @@
 * [http://graph3.defikingdoms.com/subgraphs/name/harmony/blocks/graphql](http://graph3.defikingdoms.com/subgraphs/name/harmony/blocks/graphql) ( blocks ) !! no transaction data here
 * [http://graph3.defikingdoms.com/subgraphs/name/defikingdoms/apiv5/graphql](http://graph3.defikingdoms.com/subgraphs/name/defikingdoms/apiv5/graphql) ( profile | hero | assistingAuction | saleAuction )
 * [https://github.com/0rtis/dfk](https://github.com/0rtis/dfk) - Interesting take on some the possible things...
+* [https://kingdom.watch/personal](https://kingdom.watch/personal)
+* [https://dfkwiki.com/](https://dfkwiki.com)
+*
