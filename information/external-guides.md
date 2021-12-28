@@ -13,3 +13,9 @@
 ## Snowflake
 
 {% embed url="https://docs.snowflake.com/en/sql-reference/intro-summary-operators-functions.html" %}
+
+## How to start looking at ETH Logs
+
+{% embed url="https://www.chuxinhuang.com/blog/select-from-web3" %}
+www.chuxinhuang.com/blog
+{% endembed %}
