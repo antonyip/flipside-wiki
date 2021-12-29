@@ -11,7 +11,7 @@ DONE - list hero -- (Non-taxable?)
 DONE - sold hero -- need to trace the buy logs as the info is in there with jewel price
 DONE - summon hero -- making a summoning crystal
 SKIP - list for hire -- (Non-taxable?)
-TODO - rent out hero -- renting out your hero for $ for summoning
+DONE - rent out hero -- renting out your hero for $ for summoning
 DONE - level up
 SKIP - give hero -- (giving people your hero)
 SKIP - get hero -- (getting heroes from people)
