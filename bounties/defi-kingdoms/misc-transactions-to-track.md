@@ -7,20 +7,20 @@ description: 'Credits: ant#8260'
 ```
 Heroes:
 DONE - buy hero -- hero goes to your wallet automatically
-DONE - list hero -- (Non-taxable?)
+DONE - list hero -- (Non-taxable)
 DONE - sold hero -- need to trace the buy logs as the info is in there with jewel price
 DONE - summon hero -- making a summoning crystal
-SKIP - list for hire -- (Non-taxable?)
+SKIP - list for hire -- (Non-taxable)
 DONE - rent out hero -- renting out your hero for $ for summoning
 DONE - level up
 SKIP - give hero -- (giving people your hero)
 SKIP - get hero -- (getting heroes from people)
 
 garderner:
-TODO - create/buy seeds -- using 2 tokens to get 1 lp token
-TODO - split seeds -- using 1 lp token to get 2 tokens
-TODO - deposit LP (so you can harvest later) -- (Non-taxable?)
-TODO - withdraw LP -- (Non-taxable?)
+DONE - create/buy seeds -- using 2 tokens to get 1 lp token
+DONE - split seeds -- using 1 lp token to get 2 tokens
+SKIP - deposit LP (so you can harvest later) -- (Non-taxable)
+SKIP - withdraw LP -- (Non-taxable)
 DONE - harvest lp
 SKIP - buy lp -- ? is this possible (buying lptokens/seeds)
 SKIP - sell lp -- ? is this possible (selling lptokens/seeds?)
@@ -39,7 +39,7 @@ DONE - unstake
 
 quest:
 SKIP - start quest -- (Non-taxable?) (All quest goes to same contract for now)
-DONE - claim rewards
+DONE - claim rewards / Complete Quest
 
 items:
 DONE - sell item for dfkgold -- 0xe53bf78f8b99b6d356f93f41afb9951168cca2c6
