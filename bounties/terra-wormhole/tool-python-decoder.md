@@ -1,6 +1,40 @@
 # TOOL - Python Decoder
 
 ```
+import base64
+
+
+# WormholeMsg:
+# Header
+# byte        version                  (VAA Version)
+# u32         guardian_set_index       (Indicates which guardian set is signing)
+# u8          len_signatures           (Number of signatures stored)
+# 
+# [][66]byte  signatures               (Collection of ecdsa signatures)
+# 
+# Body:
+# u32         timestamp
+# u32         nonce
+# u16         emitter_chain
+# [32]byte    emitter_address
+# u64         sequence
+# u8          consistency_level
+# []byte      payload
+# 
+#     Payload:
+#     u8 action
+#     [u8] payload
+# 
+#         Body:
+#         u256     amount
+#         [u8; 32] token_address
+#         u16      token_chain
+#         [u8; 40] recipient
+#         u16      recipient_chain
+#         u256     fee
+
+
+## these are in bytes
 VERSION_POS = 0
 HEADER_LEN = 6
 LEN_SIGNATURE_POS = 5
@@ -18,24 +52,43 @@ FEE_POS = 100
 RECIPIENT_POS = 66
 RECIPIENT_SIZE = 32
 
+TIMESTAMP_SIZE = 4
+NONCE_SIZE = 4
+EMITTER_CHAIN_SIZE = 2
+EMITTER_ADDRESS_SIZE = 32
+SEQUENCE_SIZE = 8
+
 def parse_vaa(vaa: str, address_matcher = None):
-        import base64
         # Load as bytearray
+
+        #print (base64.b64decode(vaa).hex())
         vaa_arr = list(bytearray(base64.b64decode(vaa)))
         len_signatures = vaa_arr[LEN_SIGNATURE_POS]
         
         body_offset = HEADER_LEN + (len_signatures * SIGNATURE_LEN)
         body_arr = vaa_arr[body_offset:]
-
+        body_print = ''.join(list(map(lambda x: hex(x)[2:], body_arr)))
+        #print((body_print))
         emitter_chain = body_arr[EMITTER_CHAIN_POS:EMITTER_CHAIN_POS+2]
         payload = body_arr[PAYLOAD_POS:]
 
+        # body payload - stuffs
+        body_timestamp = body_arr[0:TIMESTAMP_SIZE]
+        body_nonce = body_arr[TIMESTAMP_SIZE : TIMESTAMP_SIZE+NONCE_SIZE]
+        body_emitter_chain = body_arr[TIMESTAMP_SIZE+NONCE_SIZE : TIMESTAMP_SIZE+NONCE_SIZE+EMITTER_CHAIN_SIZE]
+        body_emitter_address = body_arr[TIMESTAMP_SIZE+NONCE_SIZE+EMITTER_CHAIN_SIZE : TIMESTAMP_SIZE+NONCE_SIZE+EMITTER_CHAIN_SIZE+EMITTER_ADDRESS_SIZE]
+        body_sequence = body_arr[TIMESTAMP_SIZE+NONCE_SIZE+EMITTER_CHAIN_SIZE+EMITTER_ADDRESS_SIZE : TIMESTAMP_SIZE+NONCE_SIZE+EMITTER_CHAIN_SIZE+EMITTER_ADDRESS_SIZE+SEQUENCE_SIZE]
+
+        # payload - stuffs
         msg_payload = payload[MSG_PAYLOAD_POS:]
+        payload_print = ''.join(list(map(lambda x: hex(x)[2:], msg_payload)))
+        #print((payload_print))
         amount = msg_payload[AMOUNT_POS :AMOUNT_POS + AMOUNT_SIZE]
         amount = int.from_bytes(bytes(amount), 'big')
         token_addr = msg_payload[TOKEN_ADDR_POS:TOKEN_ADDR_POS + TOKEN_ADDR_SIZE]
         recipient = msg_payload[RECIPIENT_POS:RECIPIENT_POS + RECIPIENT_SIZE]
         recipient = base64.b64encode(bytes(recipient))
+
         token_name = ''.join(list(map(lambda x: chr(x), token_addr)))
         # Only care for uusd and uluna, since we don't have price data for every token
         token_name = token_name[-5:].lstrip('\x00')
@@ -52,9 +105,20 @@ def parse_vaa(vaa: str, address_matcher = None):
         fee = msg_payload[FEE_POS:FEE_POS+32]
         fee = int.from_bytes(bytes(fee), 'big')
         return {
-            'FROM_CHAIN': bytearr_to_int(emitter_chain[-1::-1]), 'RECIPIENT': recipient.decode(),
-            'AMOUNT': amount, 'CURRENCY': token_name, 'FEE': fee}
+            'BODY_TIMESTAMP' : int(''.join(list(map(lambda x: hex(x)[2:], body_timestamp))), 16),
+            'BODY_NONCE' : int(''.join(list(map(lambda x: hex(x)[2:], body_nonce))), 16),
+            'BODY_EMITTER_CHAIN' : int(''.join(list(map(lambda x: hex(x)[2:], body_emitter_chain))), 16),
+            'BODY_EMITTER_ADDRESS' : '0x' + (''.join(list(map(lambda x: hex(x)[2:], body_emitter_address)))),
+            'BODY_SEQUENCE' : int(''.join(list(map(lambda x: hex(x)[2:], body_sequence))), 16),
+            'FROM_CHAIN': bytearr_to_int(emitter_chain[-1::-1]),
+            'RECIPIENT': '0x' + base64_to_hex(recipient.decode()),
+            'AMOUNT': amount,
+            'CURRENCY': base64_to_hex(token_name),
+            'FEE': fee
+            }
 
+def base64_to_hex(strr):
+    return base64.b64decode(strr).hex()
     
 def bytearr_to_int(arr):
     result = 0
