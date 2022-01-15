@@ -16,7 +16,7 @@ coverY: 0
 
 ## Grand Prize Winners
 
-{% embed url="https://docs.google.com/spreadsheets/d/1Om4Mym-zDAiPEX4e09ReRTzFyjVijnG1NbSDVbWuiV0/edit#gid=0" %}
+{% embed url="https://airtable.com/shrfI0Bf61fTHkhpJ/tblbhDrqZZvaAJh92" %}
 
 ## Leaderboard
 
