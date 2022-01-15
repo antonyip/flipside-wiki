@@ -13,11 +13,23 @@ SELECT
    WHEN vaa_data ILIKE '%0000000000000000000000003ee18b2214aff97000d974cf647e7c347e8fa585%' THEN 'Ethereum'
    WHEN vaa_data ILIKE '%000000000000000000000000b6f6d86a8f9879a9c87f643768d9efc38c1da6e7%' THEN 'BSC'
    WHEN vaa_data ILIKE '%0000000000000000000000005a58505a96d1dbf8df91cb21b54419fc36e93fde%' THEN 'Polygon'
+   WHEN vaa_data ILIKE '%0000000000000000000000000e082f06ff657d94310cb8ce8b0d9a04541d8052%' THEN 'Avax'
+   WHEN vaa_data ILIKE '%000000000000000000000000f7b6737ca9c4e08ae573f75a97b73d7a813f5de5%' THEN 'Avax'
+   WHEN vaa_data ILIKE '%00000000000000000000000004952d522ff217f40b5ef3cbf659eca7b952a6c1%' THEN 'Oasis'
+   WHEN vaa_data ILIKE '%0000000000000000000000005848c791e09901b40a9ef749f2a6735b418d7564%' THEN 'Oasis'  
    ELSE 'Unknown Chain'
  END as emitter_chain
 FROM terra.msgs
 WHERE tx_id = '05A1DF7D5B88490E0652A47EE069092A3123FCF0B9F5EAF4D89FFF5C2C6C3ED4' -- sol test tx
 ```
+
+## How to update above table
+
+Use this website to figure out who are the contract emitters and add them to the list...
+
+{% embed url="https://wormholenetwork.com/en/explorer?emitterChain=1" %}
+https://wormholenetwork.com/en/explorer/?emitterChain=1
+{% endembed %}
 
 ## Bridges
 
