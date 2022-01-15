@@ -68,6 +68,7 @@
   * [STRUCT - Collection Addresses](bounties/terra-random-earth/struct-collection-addresses.md)
 * [Terra - Wormhole](bounties/terra-wormhole/README.md)
   * [STRUCT - VAA\_Data](bounties/terra-wormhole/struct-vaa\_data.md)
+  * [QUERY - VAA\_DECODEING](bounties/terra-wormhole/query-vaa\_decodeing.md)
   * [QUERY - Tokens](bounties/terra-wormhole/query-tokens.md)
 * [THORChain](bounties/thorchain/README.md)
   * [QUERY - RaiseTheCaps](bounties/thorchain/query-raisethecaps.md)
