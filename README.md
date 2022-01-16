@@ -13,6 +13,10 @@ Welcome to the Flipside-Wiki. Hope you enjoy your stay!
 
 {% embed url="https://anton-yip.gitbook.io/flipside-wiki" %}
 
+### Flipside Fam
+
+![](.gitbook/assets/wordcloud.png)
+
 ### Have any questions?&#x20;
 
 * I don't know how to write a query for this bounty
