@@ -13,9 +13,9 @@
 * [Flipside Official Documentation](information/flipside-official-documentation.md)
 * [Flipside Database Status](information/flipside-status.md)
 * [External Guides](information/external-guides.md)
-* [Flipside Query Tips and Tricks](information/flipside-query-tips-and-tricks.md)
+* [Flipside Query Tips and Tricks](information/flipside-query-tips-and-tricks/README.md)
+  * [Export To AWS Bucket](information/flipside-query-tips-and-tricks/export-to-aws-bucket.md)
 * [Flipside Vouches and Thanks](information/flipside-vouches-and-thanks.md)
-* [Export To AWS Bucket](information/export-to-aws-bucket.md)
 * [Kida's Bounty Payments](https://kidas.app/flipside/payments)
 
 ## Bounties
