@@ -73,6 +73,7 @@
   * [QUERY - VAA\_DECODEING](bounties/terra-wormhole/query-vaa\_decodeing.md)
   * [TOOL - Python Decoder](bounties/terra-wormhole/tool-python-decoder.md)
   * [QUERY - Tokens](bounties/terra-wormhole/query-tokens.md)
+  * [QUERY - Movement Out of Terra](bounties/terra-wormhole/query-movement-out-of-terra.md)
 * [THORChain](bounties/thorchain/README.md)
   * [QUERY - RaiseTheCaps](bounties/thorchain/query-raisethecaps.md)
   * [QUERY - Daily Active Validator Count](bounties/thorchain/query-daily-active-validator-count.md)
