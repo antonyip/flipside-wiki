@@ -1,4 +1,12 @@
-# Validators
+# QUERY - Validators
+
+## Validator Rewards
+
+{% embed url="https://app.flipsidecrypto.com/velocity/queries/890ec4ed-725e-47b0-89b7-2504b8551452" %}
+Credits: AD#5391
+{% endembed %}
+
+## Validator Addresses
 
 ```
 WITH validatornames as 
