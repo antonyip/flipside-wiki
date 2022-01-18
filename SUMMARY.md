@@ -47,6 +47,7 @@
 * [Paraswap](bounties/paraswap.md)
 * [Polygon](bounties/polygon.md)
 * [Solana](bounties/solana/README.md)
+  * [DATA - Transfers](bounties/solana/data-transfers.md)
   * [QUERY - CEX](bounties/solana/query-cex.md)
   * [STRUCT - Tokens](bounties/solana/tokens.md)
 * [Stader](bounties/stader.md)
