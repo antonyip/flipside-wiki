@@ -28,8 +28,8 @@ coverY: 0
 User Dashboards
 {% endembed %}
 
-{% embed url="https://www.flipsidecrypto.com/finest" %}
-Flipside Dashboards
+{% embed url="https://flipsidecrypto.xyz/showcase" %}
+https://flipsidecrypto.xyz/showcase
 {% endembed %}
 
 {% embed url="https://teamflipside.notion.site/teamflipside/60098e93775c4c34a9f51eb840fbf437?v=28f2051da00c494fad8bb7d13e0a0b86" %}
