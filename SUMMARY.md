@@ -24,7 +24,8 @@
 * [Abracadabra](bounties/abracadabra.md)
 * [Apollo](bounties/apollo/README.md)
   * [QUERY - StrategyID to Name](bounties/apollo/query-strategyid-to-name.md)
-* [Algorand](bounties/algorand.md)
+* [Algorand](bounties/algorand/README.md)
+  * [Questions - Payouts](bounties/algorand/questions-payouts.md)
 * [Anchor](bounties/anchor.md)
 * [Angel Protocol](bounties/angel-protocol.md)
 * [Astroport](bounties/astroport.md)
@@ -47,6 +48,7 @@
 * [Paraswap](bounties/paraswap.md)
 * [Polygon](bounties/polygon.md)
 * [Solana](bounties/solana/README.md)
+  * [QUESTIONS - Payouts](bounties/solana/questions-payouts.md)
   * [DATA - Transfers](bounties/solana/data-transfers.md)
   * [QUERY - CEX](bounties/solana/query-cex.md)
   * [STRUCT - Tokens](bounties/solana/tokens.md)
@@ -82,6 +84,8 @@
 * [THORChain](bounties/thorchain/README.md)
   * [QUERY - RaiseTheCaps](bounties/thorchain/query-raisethecaps.md)
   * [QUERY - Daily Active Validator Count](bounties/thorchain/query-daily-active-validator-count.md)
+* [Uniswap](bounties/uniswap/README.md)
+  * [Questions - Payout](bounties/uniswap/questions-payout.md)
 * [Valkyrie Protocol](bounties/valkyrie-protocol.md)
 
 ## Massnomis Guides
