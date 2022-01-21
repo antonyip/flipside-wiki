@@ -8,7 +8,7 @@ coverY: 0
 
 ### Flipside Tables
 
-![Hidden Flipside Tables :P](../.gitbook/assets/Anchor.png)
+![Hidden Flipside Tables :P](../../.gitbook/assets/Anchor.png)
 
 ### Contracts
 
