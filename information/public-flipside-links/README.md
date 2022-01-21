@@ -14,6 +14,10 @@ coverY: 0
 
 {% embed url="https://www.notion.so/teamflipside/Flipside-Crypto-Bounty-Programs-8a6400e3d85049b79875d5200206974e" %}
 
+## Questions List
+
+{% embed url="https://airtable.com/shr5lY6yqvGJK7sR0/tblg1Px6JhPS5STp6" %}
+
 ## Grand Prize Winners
 
 {% embed url="https://airtable.com/shrfI0Bf61fTHkhpJ/tblbhDrqZZvaAJh92" %}
