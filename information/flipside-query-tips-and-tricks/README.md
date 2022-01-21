@@ -80,7 +80,7 @@ select
 group by from_asset, to_asset
 ```
 
-Flatten terra.msg\_events
+### Flatten terra.msg\_events
 
 ```
 select 
@@ -122,3 +122,7 @@ Copy and paste this json into the viewer and you'll be able to see this image:
 
 
 ```
+
+### Share Plots quickly with others
+
+![](../../.gitbook/assets/quickshare.png)
