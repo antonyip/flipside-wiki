@@ -77,6 +77,8 @@
   * [QUERY - Eggs](bounties/terra-levana-dragons/query-eggs.md)
   * [QUERY - Meteors](bounties/terra-levana-dragons/query-meteors.md)
   * [GOOGLEDOC - LVN Starters](https://docs.google.com/document/d/1p01MeomkqRPt8NzD5V5T\_MunA2WMIi5mgltlCEHEo1A/edit#)
+* [Terra - Loopr](bounties/terra-loopr/README.md)
+  * [QUERY - Liquidity Pools](bounties/terra-loopr/query-liquidity-pools.md)
 * [Terra - Random Earth](bounties/terra-random-earth/README.md)
   * [QUERY - Sales](bounties/terra-random-earth/query-sales.md)
   * [STRUCT - Collection Addresses](bounties/terra-random-earth/struct-collection-addresses.md)
