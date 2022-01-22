@@ -1,3 +1,7 @@
+---
+description: 'Credits: lambdadelta#7856'
+---
+
 # QUERY - Liquidity Pools
 
 ```
