@@ -41,6 +41,7 @@
   * [MISC - ONE to 0x Conversion](bounties/defi-kingdoms/misc-one-to-0x-conversion.md)
   * [MISC - Dev FAQ](https://docs.google.com/spreadsheets/d/1x-5YjfyDYW5-CqJIPH1\_S2l032GU4l4eaIEmrjTpDJ8/edit)
   * [WEBSITE - https://dfk-report.vercel.app ( built by me )](https://dfk-report.vercel.app/admin/dfk\_report)
+  * [WEBSITE - DFK Dev Community](https://sarah-1.gitbook.io/defikingdoms-apiv5-documentation/quick-start)
 * [ENS](bounties/ens.md)
 * [MakerDAO](bounties/makerdao.md)
 * [Mirror](bounties/mirror/README.md)
