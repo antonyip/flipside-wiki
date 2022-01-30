@@ -58,7 +58,7 @@
   * [QUESTIONS - Payouts](bounties/solana/questions-payouts.md)
   * [DATA - Transfers](bounties/solana/data-transfers.md)
   * [QUERY - CEX](bounties/solana/query-cex.md)
-  * [STRUCT - Tokens](bounties/solana/tokens.md)
+  * [Data - Tokens](bounties/solana/tokens.md)
 * [Stader](bounties/stader.md)
 * [SushiSwap](bounties/sushiswap.md)
   * [QUESTIONS - Payout](bounties/sushiswap/questions-payout.md)
