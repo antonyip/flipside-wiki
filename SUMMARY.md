@@ -28,7 +28,7 @@
   * [QUESTIONS - Payouts](bounties/algorand/questions-payouts.md)
   * [TUTORIAL - ASA Buy/Sell](bounties/algorand/tutorial-asa-buy-sell.md)
 * [Anchor](bounties/anchor/README.md)
-  * [Query - Liqudidations](bounties/anchor/query-liqudidations.md)
+  * [QUERY - Liquidations](bounties/anchor/query-liquidations.md)
   * [QUESTIONS - Payout](bounties/anchor/questions-payout.md)
   * [DASHBOARDS - Best](bounties/anchor/dashboards-best.md)
 * [Angel Protocol](bounties/angel-protocol.md)

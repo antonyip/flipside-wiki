@@ -4,7 +4,7 @@ description: 'Credits: TheLaughingMan#3062'
 
 # TUTORIAL - ASA Buy/Sell
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ```
 filter_buys as ( 
@@ -38,4 +38,4 @@ filter_sells as (
 ),
 ```
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
