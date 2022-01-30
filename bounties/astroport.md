@@ -23,3 +23,5 @@ terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3
 {% embed url="https://finder.extraterrestrial.money/mainnet/address/terra1627ldjvxatt54ydd3ns6xaxtd68a2vtyu7kakj" %}
 terra1627ldjvxatt54ydd3ns6xaxtd68a2vtyu7kakj
 {% endembed %}
+
+Luna-bLuna LP Address: terra1nuy34nwnsh53ygpc4xprlj263cztw7vc99leh2

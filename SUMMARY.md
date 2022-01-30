@@ -26,6 +26,7 @@
   * [QUERY - StrategyID to Name](bounties/apollo/query-strategyid-to-name.md)
 * [Algorand](bounties/algorand/README.md)
   * [QUESTIONS - Payouts](bounties/algorand/questions-payouts.md)
+  * [TUTORIAL - ASA Buy/Sell](bounties/algorand/tutorial-asa-buy-sell.md)
 * [Anchor](bounties/anchor/README.md)
   * [QUESTIONS - Payout](bounties/anchor/questions-payout.md)
   * [DASHBOARDS - Best](bounties/anchor/dashboards-best.md)
@@ -97,6 +98,7 @@
 * [Uniswap](bounties/uniswap/README.md)
   * [QUESTIONS - Payout](bounties/uniswap/questions-payout.md)
 * [Valkyrie Protocol](bounties/valkyrie-protocol.md)
+* [Visor - Gamma](bounties/visor-gamma.md)
 
 ## Massnomis Guides
 
