@@ -17,3 +17,8 @@
 * Liquidation Risks:
   * https://app.flipsidecrypto.com/dashboard/b-luna-liquidation-risks-machine-learning-modelling-0Mjg7F
   * https://medium.com/@sef\_crypto/anchor-liquidation-historical-overview-and-risks-befebec6f525
+* More:
+  * https://colab.research.google.com/drive/1NM79loqZmiRMhjER1rS\_UcwHzf0OZAZ8#scrollTo=528X007t5Bzz
+  * https://app.flipsidecrypto.com/dashboard/trends-on-borrowing-ust-and-depositing-on-anchor-ZCIsET
+  * https://app.flipsidecrypto.com/dashboard/historic-b-assets-price-movements-b5W-mo
+  * https://app.flipsidecrypto.com/dashboard/terra-stablecoins-are-they-H4uNMJ
