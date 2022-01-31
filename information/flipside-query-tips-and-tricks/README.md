@@ -126,3 +126,36 @@ Copy and paste this json into the viewer and you'll be able to see this image:
 ### Share Plots quickly with others
 
 ![](../../.gitbook/assets/quickshare.png)
+
+### Smooth Charts
+
+```
+-- Credits: AD#5391
+-- Table containing all days over the last 40 days
+with dates as (
+ select
+  -- first argument is unit of time to add, second is amount to increment, third is starting date
+  dateadd(day, '-' || row_number() over (order by null),  current_date() + 1) as date
+ from table (generator(rowcount => 40))
+),
+
+-- Prices over the last 30 days (artifically create missing data for this example)
+prices as (
+  select
+      date_trunc('day', block_timestamp) as date,
+      avg(price_usd) as price
+  from terra.oracle_prices
+  where
+      symbol = 'LUNA'
+    and date >= current_date() - 30
+  group by date
+  order by date desc
+)
+
+select 
+  dates.date,
+  coalesce(prices.price, 0) as price
+from prices
+full outer join dates on prices.date = dates.date
+order by date desc
+```
