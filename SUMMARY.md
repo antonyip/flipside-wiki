@@ -124,4 +124,4 @@
 ## Testing Area
 
 * [Image Upload Test](testing-area/image-upload-test.md)
-* [Page 2](testing-area/page-2.md)
+* [Luna Breakdown](https://app.flipsidecrypto.com/velocity/visuals/2bf55dc0-af5b-4c31-95ef-bfe2f6acd914/adef0827-f37a-4652-9a31-ba862c723ae7)
