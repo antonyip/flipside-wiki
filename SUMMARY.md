@@ -99,7 +99,8 @@
 * [Uniswap](bounties/uniswap/README.md)
   * [QUESTIONS - Payout](bounties/uniswap/questions-payout.md)
 * [Valkyrie Protocol](bounties/valkyrie-protocol.md)
-* [Visor - Gamma](bounties/visor-gamma.md)
+* [Visor - Gamma](bounties/visor-gamma/README.md)
+  * [QUERY - Contracts](bounties/visor-gamma/query-contracts.md)
 
 ## Massnomis Guides
 
