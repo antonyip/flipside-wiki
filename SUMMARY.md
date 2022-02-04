@@ -54,6 +54,7 @@
 * [Orion Money](bounties/orion-money.md)
 * [Paraswap](bounties/paraswap.md)
 * [Polygon](bounties/polygon.md)
+* [Ribbon](bounties/ribbon.md)
 * [Solana](bounties/solana/README.md)
   * [QUESTIONS - Payouts](bounties/solana/questions-payouts.md)
   * [DATA - Transfers](bounties/solana/data-transfers.md)
