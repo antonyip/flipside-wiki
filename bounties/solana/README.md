@@ -1,12 +1,8 @@
+---
+description: Credits - Dillon#9955
+---
+
 # Solana
-
-## Bounty Page
-
-TBD
-
-## Sample Transactions
-
-Credits - Dillon#9955
 
 ### Raydium Swap - Look for Inner Instructions
 
