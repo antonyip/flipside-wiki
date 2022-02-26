@@ -159,3 +159,7 @@ from prices
 full outer join dates on prices.date = dates.date
 order by date desc
 ```
+
+### Joining Addresses To Labels
+
+![](<../../.gitbook/assets/image (2).png>)

@@ -19,4 +19,4 @@ random address : 0x660f6d6c9bcd08b86b50e8e53b537f2b40f243bd
 
 {% embed url="https://www.coingecko.com/en/coins/friends-with-benefits-pro#markets" %}
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)

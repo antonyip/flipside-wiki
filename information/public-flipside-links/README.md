@@ -10,13 +10,13 @@ coverY: 0
 
 {% embed url="https://www.flipsidecrypto.com" %}
 
-## Bounty Page
+## Bounty Status
+
+![](<../../.gitbook/assets/image (3).png>)
+
+## Old Bounty Page
 
 {% embed url="https://www.notion.so/teamflipside/Flipside-Crypto-Bounty-Programs-8a6400e3d85049b79875d5200206974e" %}
-
-## Questions List
-
-{% embed url="https://airtable.com/shr5lY6yqvGJK7sR0/tblg1Px6JhPS5STp6" %}
 
 ## Grand Prize Winners
 
