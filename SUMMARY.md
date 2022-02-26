@@ -50,6 +50,7 @@
   * [WEBSITE - https://dfk-report.vercel.app ( built by me )](https://dfk-report.vercel.app/admin/dfk\_report)
   * [WEBSITE - DFK Dev Community](https://sarah-1.gitbook.io/defikingdoms-apiv5-documentation/quick-start)
 * [ENS](bounties/ens.md)
+* [Friends With Benefits](bounties/friends-with-benefits.md)
 * [MakerDAO](bounties/makerdao.md)
 * [Mirror](bounties/mirror/README.md)
   * [QUERY - Starter](bounties/mirror/mirror-queries.md)

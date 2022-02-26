@@ -26,7 +26,7 @@ Partial Sale
 https://algoexplorer.io/tx/group/Pw5GneFk51bpXmyXCeSFyPb8Ys3ZVEYiR22u%2FP1KVOI%3D
 {% endembed %}
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 {% embed url="https://algoexplorer.io" %}
 
@@ -59,5 +59,5 @@ WHERE
 LIMIT 10
 ```
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
