@@ -163,3 +163,23 @@ order by date desc
 ### Joining Addresses To Labels
 
 ![](<../../.gitbook/assets/image (2).png>)
+
+### Lag Example
+
+```
+  SELECT
+  date(hour) as date,
+  symbol,
+  token_address,
+  avg(price) as daily_avg_usd,
+  median(price) as daily_median_usd,
+  lag(daily_avg_usd) ignore nulls over(partition by symbol ORDER BY date ASC) as price_prev,
+  ((daily_avg_usd - price_prev)/daily_avg_usd)*100 as delta_percent
+FROM ethereum.token_prices_hourly_v2
+ WHERE symbol IN ('WETH', 'WBNB', 'SOL', 'LUNA', 'AVAX', 'MATIC', 'ALGO', 'FTM', 'ATOM') 
+    AND token_address !='0x2730d6fdc86c95a74253beffaa8306b40fedecbb' -- wrong UNI
+    AND token_address !='0xe6877ea9c28fbdec631ffbc087956d0023a76bf2' -- wrong UNI
+    AND token_address !='0x1f54638b7737193ffd86c19ec51907a7c41755d8' -- wrong SOL
+--   AND DATEDIFF(day, hour, GETDATE()) between 0 and 60
+GROUP BY 1,2,3
+```
