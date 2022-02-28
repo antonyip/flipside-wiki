@@ -94,6 +94,7 @@
 * [Terra - Random Earth](bounties/terra-random-earth/README.md)
   * [QUERY - Sales](bounties/terra-random-earth/query-sales.md)
   * [STRUCT - Collection Addresses](bounties/terra-random-earth/struct-collection-addresses.md)
+* [Terra - Talis](bounties/terra-talis.md)
 * [Terra - Wormhole](bounties/terra-wormhole/README.md)
   * [STRUCT - VAA\_Data](bounties/terra-wormhole/struct-vaa\_data.md)
   * [QUERY - VAA\_DECODEING](bounties/terra-wormhole/query-vaa\_decodeing.md)
