@@ -36,6 +36,7 @@
   * [QUERY - Liquidations](bounties/anchor/query-liqudidations.md)
   * [QUESTIONS - Payout](bounties/anchor/questions-payout.md)
   * [DASHBOARDS - Best](bounties/anchor/dashboards-best.md)
+  * [DASHBOARD - Anchor Interest Rate](https://app.flipsidecrypto.com/dashboard/estimated-apr-P5cmdT)
 * [Angel Protocol](bounties/angel-protocol.md)
 * [Astroport](bounties/astroport.md)
 * [ConstitutionDAO](bounties/constitutiondao/README.md)
