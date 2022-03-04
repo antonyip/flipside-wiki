@@ -184,10 +184,23 @@ FROM ethereum.token_prices_hourly_v2
 GROUP BY 1,2,3
 ```
 
-PIVOT: thanks sam#0575
+### PIVOT (Rows to Columns): thanks sam#0575
 
 ![](<../../.gitbook/assets/image (2).png>)
 
-UNPIVOT: thanks sam#0575
+### UNPIVOT (Columns to Rows): thanks sam#0575
 
 ![](<../../.gitbook/assets/image (5).png>)
+
+### Generate Dates
+
+```
+with index_table as (
+select seq4() as count
+  from table(generator(rowcount => 365)) t
+)
+
+select 
+dateadd('hour', count, date('2022-01-01')) as day_date
+from index_table
+```
