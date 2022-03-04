@@ -162,7 +162,7 @@ order by date desc
 
 ### Joining Addresses To Labels
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 ### Lag Example
 
@@ -183,3 +183,11 @@ FROM ethereum.token_prices_hourly_v2
 --   AND DATEDIFF(day, hour, GETDATE()) between 0 and 60
 GROUP BY 1,2,3
 ```
+
+PIVOT: thanks sam#0575
+
+![](<../../.gitbook/assets/image (2).png>)
+
+UNPIVOT: thanks sam#0575
+
+![](<../../.gitbook/assets/image (5).png>)
