@@ -79,6 +79,7 @@
   * [QUERY - Addresses](bounties/terra/query-addresses.md)
   * [QUERY - NFT Contract Addresses](bounties/terra/query-nft-contract-addresses.md)
   * [QUESTION - msgs vs msg\_events](bounties/terra/question-msgs-vs-msg\_events.md)
+  * [NFT - Marketplaces](bounties/terra/nft-marketplaces.md)
 * [Terraswap](bounties/terraswap.md)
 * [Terra - Galactic Punks](bounties/terra-galactic-punks/README.md)
   * [MISC - Transactions](bounties/terra-galactic-punks/from-pinehearst-1947.md)
