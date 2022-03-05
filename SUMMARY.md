@@ -53,6 +53,7 @@
 * [ENS](bounties/ens.md)
 * [Friends With Benefits](bounties/friends-with-benefits.md)
 * [MakerDAO](bounties/makerdao.md)
+* [Mars Protocol](bounties/mars-protocol.md)
 * [Mirror](bounties/mirror/README.md)
   * [QUERY - Starter](bounties/mirror/mirror-queries.md)
 * [Olympus DAO](bounties/olympus-dao/README.md)
