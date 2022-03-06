@@ -204,3 +204,10 @@ select
 dateadd('hour', count, date('2022-01-01')) as day_date
 from index_table
 ```
+
+### Ranking Rows or Generating Row Numbers
+
+```
+row_number() over ( order by <sum_count> desc ) as rank
+```
+
