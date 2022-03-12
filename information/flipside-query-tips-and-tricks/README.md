@@ -162,7 +162,7 @@ order by date desc
 
 ### Joining Addresses To Labels
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 ### Lag Example
 
@@ -186,7 +186,7 @@ GROUP BY 1,2,3
 
 ### PIVOT (Rows to Columns): thanks sam#0575
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 ### UNPIVOT (Columns to Rows): thanks sam#0575
 
