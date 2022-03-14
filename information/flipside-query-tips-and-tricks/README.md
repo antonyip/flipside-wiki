@@ -195,6 +195,7 @@ GROUP BY 1,2,3
 ### Generate Dates
 
 ```
+-- refer to smooth charts instead, this has some problem with joins
 with index_table as (
 select seq4() as count
   from table(generator(rowcount => 365)) t
@@ -211,3 +212,18 @@ from index_table
 row_number() over ( order by <sum_count> desc ) as rank
 ```
 
+### Lag Example
+
+```
+SELECT
+  date_trunc('day',block_timestamp) as day_date,
+  sum(deposit_amount) as deposit_ust_daily,
+  sum(mint_amount) as mint_daily,
+  deposit_ust_daily/mint_daily as est_aust_price,
+  LAG(est_aust_Price) ignore nulls over (order by day_date) as yesterday_price,
+  (est_aust_price-yesterday_price)/yesterday_price * 365 as interestRate
+FROM anchor.deposits
+  where block_timestamp > current_date - 30
+GROUP BY 1 
+ORDER BY 1
+```
