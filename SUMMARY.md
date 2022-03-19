@@ -64,6 +64,7 @@
 * [Orion Money](bounties/orion-money.md)
 * [Paraswap](bounties/paraswap.md)
 * [Polygon](bounties/polygon.md)
+* [Rari Fuse](bounties/rari-fuse.md)
 * [Ribbon](bounties/ribbon.md)
 * [Solana](bounties/solana/README.md)
   * [HINT - Swaps](bounties/solana/hint-swaps.md)
