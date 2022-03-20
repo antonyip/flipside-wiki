@@ -34,6 +34,7 @@
   * [NOTES - Old Txs](bounties/algorand/notes-old-txs.md)
   * [TUTORIAL - ASA Buy/Sell](bounties/algorand/tutorial-asa-buy-sell.md)
 * [Anchor](bounties/anchor/README.md)
+  * [AVAX - Anchor](bounties/anchor/avax-anchor.md)
   * [QUERY - Liquidations](bounties/anchor/query-liqudidations.md)
   * [QUESTIONS - Payout](bounties/anchor/questions-payout.md)
   * [DASHBOARDS - Best](bounties/anchor/dashboards-best.md)
