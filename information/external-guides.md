@@ -1,5 +1,11 @@
 # External Guides
 
+## Bounty Hunter Guide
+
+{% embed url="https://medium.com/@der_piper/a-short-introduction-to-flipside-crypto-or-how-to-become-a-bounty-hunter-d8f992548806" %}
+How to become a bounty Hunter - @derPiper
+{% endembed %}
+
 ## MarkDown
 
 {% embed url="https://www.markdownguide.org/basic-syntax" %}
@@ -9,6 +15,12 @@
 ## SQL Queries
 
 {% embed url="https://www.w3schools.com/sql" %}
+
+## Flipside From Python
+
+{% embed url="https://app.flipsidecrypto.com/dashboard/flipside-with-python-I0JN3b" %}
+Credits @joker
+{% endembed %}
 
 ## Snowflake
 
