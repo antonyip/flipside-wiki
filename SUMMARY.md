@@ -55,6 +55,7 @@
   * [WEBSITE - DFK Dev Community](https://sarah-1.gitbook.io/defikingdoms-apiv5-documentation/quick-start)
 * [ENS](bounties/ens.md)
 * [Friends With Benefits](bounties/friends-with-benefits.md)
+* [Katana](bounties/katana.md)
 * [MakerDAO](bounties/makerdao.md)
 * [Mars Protocol](bounties/mars-protocol.md)
 * [Mirror](bounties/mirror/README.md)
