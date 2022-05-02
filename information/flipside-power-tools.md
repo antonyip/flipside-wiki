@@ -28,4 +28,8 @@ UST Universe
 Algorand Console
 {% endembed %}
 
+{% embed url="https://mirror.flipsidecrypto.com/mirror" %}
+Mirror Console
+{% endembed %}
+
 \
