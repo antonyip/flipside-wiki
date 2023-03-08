@@ -227,3 +227,8 @@ FROM anchor.deposits
 GROUP BY 1 
 ORDER BY 1
 ```
+
+### Negative Numbers - ffffffffffffffffffffffffffff659843769458
+```
+translate(data,'fedcba9876543210','0123456789abcdef') / pow(10,30)) * -1
+```
