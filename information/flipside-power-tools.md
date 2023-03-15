@@ -1,5 +1,9 @@
 # Flipside Power Tools
 
+{% embed url="https://science.flipsidecrypto.xyz/research/" %}
+Flipside Landing Page for their tools
+{% endembed %}
+
 {% embed url="https://science.flipsidecrypto.com/thorchain" %}
 Thorchain Console
 {% endembed %}
